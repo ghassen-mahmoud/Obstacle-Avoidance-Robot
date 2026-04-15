@@ -70,5 +70,5 @@ Based on sensor inputs, the MSP430 decides:
 * Configuration files → MSP430 setup
 ## 📸 Robot Demo
 
-![Robot](robot.jpeg)
+![Robot](robot1.mp4)
 
