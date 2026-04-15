@@ -69,6 +69,3 @@ Based on sensor inputs, the MSP430 decides:
 * `ADC.c / ADC.h` → Sensor reading (LDR)
 * Configuration files → MSP430 setup
 
----
-
-# Obstacle-Avoidance-Robot
