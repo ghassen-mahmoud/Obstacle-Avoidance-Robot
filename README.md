@@ -71,26 +71,4 @@ Based on sensor inputs, the MSP430 decides:
 
 ---
 
-## 🚀 How to Run
-
-1. Open the project in Code Composer Studio
-2. Compile the project
-3. Upload the code to MSP430
-4. Power the robot
-
----
-
-## 📸 Future Improvements
-
-* Add ultrasonic sensor for better distance measurement
-* Implement PID control for smoother navigation
-* Add wireless control (Bluetooth / Wi-Fi)
-* Integrate camera and computer vision
-
----
-
-## 👨‍💻 Author
-
-Ghassen Mahmoud
-Master Student in Electronics & Embedded Systems (ESIGELEC)
 # Obstacle-Avoidance-Robot
