@@ -68,7 +68,12 @@ Based on sensor inputs, the MSP430 decides:
 * `main.c` → Main control logic
 * `ADC.c / ADC.h` → Sensor reading (LDR)
 * Configuration files → MSP430 setup
-## 📸 Robot Demo
+## 📸 Robot picture
+
+![Robot](robot.jpeg)
+
+## 📸 Robot video link
 
 ![Robot](robot1.mp4)
+
 
